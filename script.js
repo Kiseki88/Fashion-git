@@ -6,6 +6,9 @@ function purchase(){
   alert("Added To Cart");
 }
 
+function logIn(){
+  alert("Welcome!");
+}
 // Get the modal
 var modal = document.getElementById("myModal");
 
